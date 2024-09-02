@@ -1,0 +1,23 @@
+.header{
+  height: 150px;
+  width: 100%;
+  align-items: center;
+  border-radius: 2px solid lightseagreen;
+  background-color: lightseagreen;
+}
+.heading{
+  padding-top: 30px;
+  margin-left:10px;
+  color: white;
+}
+
+table.table-bordered{
+  border:1px solid blue;
+  margin-top:20px;
+}
+table.table-bordered > thead > tr > th{
+  border:1px solid blue;
+}
+table.table-bordered > tbody > tr > td{
+  border:1px solid blue;
+}
